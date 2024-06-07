@@ -8,5 +8,6 @@ Di sisi lain, algoritma backtracking membangun solusi secara bertahap, melanjutk
 Group Member
 ----------------------------------------
 |       Nama        |    Nim   |  Kelas |
+|-------------------|----------|--------|
 |Tyo Firmansyah Akip|1301223163|IF 46 09|
 ----------------------------------------
